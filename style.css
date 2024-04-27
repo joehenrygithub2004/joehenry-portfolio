@@ -1,0 +1,113 @@
+    body{
+        font-family: "Young Serif", serif;
+    }
+
+    .section-one{
+        background-color: black;
+        color:white;
+        padding: 15px;
+        padding-top: 5px;
+        padding-bottom: 20px;
+    }
+
+    .section-3contact{
+        color:greenyellow;
+    }
+
+    .section-three{
+        background-color: blue;
+        border-radius:10px;
+        padding-bottom:20px;
+        display: inline-block;
+        height: 200px;
+        vertical-align: top;
+        width: 200px;
+
+    }
+
+    .section-fourmy{
+        margin-left: 1opx;
+    }
+
+    .section-four{
+        background-color: orange;
+        border-radius:10px;
+        padding-bottom: 20px;
+        display: inline-block;
+        height: 200px;
+        margin-left: 10px;
+        margin-right: 40px;
+        width: 600px;
+        
+        
+    }
+
+    .section-fourmy{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+
+
+    .section-fouramazon{
+        height: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+    }
+
+    
+    .section-fourcom{
+        height: 10px;
+    }
+    .section-fourtravel{
+        height: 10px;
+        padding-bottom: 10px;
+       
+    }
+
+    .section-fourco{
+        height: 10px;
+    }
+
+    .one{
+        margin: 60px;
+    }
+
+    .section-five{
+        background-color: black;
+        color:white;
+        padding: 10px;
+        margin-top: 30px;
+    }
+
+    .do{
+        background-color: black;
+        color: white;
+        padding: 10px;
+        padding-left: 20px;
+        padding-bottom: 30px;
+        
+    }
+
+    .did{
+        margin: 60px;
+    }
+
+    .done{
+        padding-top: 50px;
+    }
+
+    .oh{
+        background-color: black;
+        color: white;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        margin-top: 30px;
+        padding-top:20px;
+    }
+
+    .a{
+        background-color: orange;
+        
+    }
+
